@@ -7,6 +7,3 @@ The project was written in Python programming language.  Google Colab notepad wa
 Libraries used: 
 - NumPy
 - Pandas
-
-## Launch
-To run this project, launch Google Colab notepad.
